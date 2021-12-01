@@ -12,7 +12,7 @@ We welcome all kinds of contributions:
 
 ## Getting started
 
-If you have a specific contribution in mind, be sure to check the [issues](https://github.com/graphql-python/graphene-django/issues) and [projects](https://github.com/graphql-python/graphene-django/projects) in progress - someone could already be working on something similar and you can help out.
+If you have a specific contribution in mind, be sure to check the [issues](https://github.com/graphql-python/graphene-django/issues) and [projects](https://github.com/graphql-python/graphene-django/projects) in progress - someone could already be working on something similar and you can help out
 
 
 ## Project setup
