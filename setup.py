@@ -34,7 +34,7 @@ dev_requires = [
 
 setup(
     name="graphene-django",
-    version="3.0.0trex",
+    version="3.0.0T",
     description="Graphene Django integration",
     long_description=open("README.rst").read(),
     url="https://github.com/graphql-python/graphene-django",
